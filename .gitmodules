@@ -1,0 +1,12 @@
+[submodule "cassandra"]
+	path = cassandra
+	url = git://github.com/VinaTech/cassandra.git
+[submodule "titan"]
+	path = titan
+	url = git://github.com/VinaTech/titan.git
+[submodule "faunus"]
+	path = faunus
+	url = git://github.com/VinaTech/faunus.git
+[submodule "giraph"]
+	path = giraph
+	url = git://github.com/VinaTech/giraph.git
