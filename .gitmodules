@@ -1,6 +1,7 @@
 [submodule "cassandra"]
 	path = cassandra
 	url = git://github.com/VinaTech/cassandra.git
+	branch = cassandra-1.2
 [submodule "titan"]
 	path = titan
 	url = git://github.com/VinaTech/titan.git
@@ -10,3 +11,4 @@
 [submodule "giraph"]
 	path = giraph
 	url = git://github.com/VinaTech/giraph.git
+	branch = trunk
